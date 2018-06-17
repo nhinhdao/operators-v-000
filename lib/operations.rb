@@ -3,6 +3,7 @@ def unsafe?(speed)
 		true
 	elsif speed.between?(40,60)
 		false
+	end
 end
 
 
